@@ -100,7 +100,7 @@ The current calculation workflow includes the following loading-case identifiers
 | Identifier | Description in the program |
 |---|---|
 | \(A_L\) | Loading case \(A_L\) |
-| \(q_{tr}\) | Sidewalk loading |
+| \(q_tr\) | Sidewalk loading |
 | \(B_c\) | \(B_c\) vehicle loading |
 | \(Mc80\) | Mc80 military vehicle |
 | \(Mc120\) | Mc120 military vehicle |
@@ -126,7 +126,7 @@ The exact plot contents depend on the plotting routines available in the project
 ### 1. Clone the repository
 
 ```bash
-git https://github.com/Maglwe/Transverse_Distribution_Coefficient.git
+git clone https://github.com/Maglwe/Transverse_Distribution_Coefficient.git
 cd Transverse_Distribution_Coefficient
 ```
 
